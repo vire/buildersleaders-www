@@ -28,6 +28,11 @@ const Home = () => (
           <h3>Join waiting list &rarr;</h3>
         </a>
       </div>
+      <div>
+        <a href="https://github.com/buildersleaders/buildersleaders-www/blob/master/CODE_OF_CONDUCT.md">
+          <h5>Code Of Conduct</h5>
+        </a>
+      </div>
     </main>
 
     <footer>2020 - buildersleaders.com</footer>
